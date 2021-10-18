@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    background-color: darkkhaki;
+   
+}
+
+h1{
+    margin: 0px;
+
+   
+}
+header{
+    background-color: beige;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    text-underline-position: below;
+   
+}
+
+h2{
+    color: black;
+}
+
+
+
+.portfolio{
+    text-decoration: black;
+    flex-wrap: wrap;
+    border-style: solid;
+
+
+}
+
+.section-heading{
+    border-right-style: solid;
+    border-left-style: solid;
+    border-collapse: separate;
+    
+
+    
+}
+
+p{
+    max-width: max-content;
+    scroll-padding-block: 50px;
+   
+}
+
+section{
+    max-height: max-content;
+}
+
+
+
+
+
+
