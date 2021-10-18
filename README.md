@@ -1,7 +1,7 @@
 # PortfolioProjects
 
-Projects 
+My Portfolio
 
-Contact me
+Projects
 
-Social Media
+Contact Me
